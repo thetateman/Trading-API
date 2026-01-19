@@ -1,4 +1,6 @@
-# What is PumpPortal?
+# Useful trading apis:
+
+PumpPortal
 
 **A 3rd-Party (unofficial) API for Pump.fun**. We provide HTTPS endpoints that allow you to programmatically trade on, and gather data from, the Pump.fun bonding curve. 
 
